@@ -42,13 +42,13 @@ Scripts de inserción de datos
 ```
 
 ## 🚀 Cómo usar el proyecto
-1️⃣ Clonar el repositorio
+1️⃣ Clonar el repositorio.
 git clone https://github.com/usuario/database-project.git
-2️⃣ Crear la base de datos
+2️⃣ Crear la base de datos.
 
-Abrir DBeaver
+Abrir DBeaver.
 
-Crear una nueva conexión a MySQL
+Crear una nueva conexión a MySQL.
 
 Ejecutar el archivo DDL_1_Estructura.sql, DDL_2_cambios.sql, DDL_3_correcciones.sql en este orden.
 
