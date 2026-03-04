@@ -52,3 +52,11 @@ Ejecutar el archivo DDL_1_Estructura.sql, DDL_2_cambios.sql, DDL_3_correcciones.
 Ejecutar el archivo:
 
 DDL_1_Estructura.sql
+
+## 👥 INTEGRANTES:
+
+    Alejandro Caamaño
+    Carlos Corchado
+    Renzo Alejandro
+    Sergio Sierra
+
