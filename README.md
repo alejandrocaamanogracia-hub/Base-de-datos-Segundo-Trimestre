@@ -1,4 +1,4 @@
-** Proyecto Base de Datos **
+# Proyecto Base de Datos 
 📌 Descripción
 
 Este repositorio contiene el diseño, modelado e implementación de una base de datos relacional desarrollada con MySQL, administrada mediante DBeaver y modelada visualmente con Draw.io.
@@ -15,7 +15,7 @@ Script de creación de base de datos
 
 Scripts de inserción de datos
 
-** 🛠 Tecnologías Utilizadas **
+## 🛠 Tecnologías Utilizadas 
 
 🐬 MySQL – Sistema de gestión de base de datos relacional.
 
@@ -36,7 +36,7 @@ Scripts de inserción de datos
 │   └── modelo fisico.jpeg
 └── 📄 README.md
 
-🚀 Cómo usar el proyecto
+## 🚀 Cómo usar el proyecto
 1️⃣ Clonar el repositorio
 git clone https://github.com/usuario/database-project.git
 2️⃣ Crear la base de datos
