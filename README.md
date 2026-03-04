@@ -23,6 +23,9 @@ Scripts de inserción de datos
 
 🎨 Draw.io – Herramienta para el diseño del modelo entidad-relación.
 
+
+``` texto
+
 📁 Base de datos Segundo Trimestre/
 ├── 📁 Esquemas
 │   └── Modelo ER.drawio
@@ -35,6 +38,8 @@ Scripts de inserción de datos
 │   └── DDL_rellenar.sql
 │   └── modelo fisico.jpeg
 └── 📄 README.md
+
+```
 
 ## 🚀 Cómo usar el proyecto
 1️⃣ Clonar el repositorio
