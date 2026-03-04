@@ -43,7 +43,7 @@ Scripts de inserción de datos
 
 ## 🚀 Cómo usar el proyecto
 1️⃣ Clonar el repositorio.
-git clone https://github.com/usuario/database-project.git
+git clone https://github.com/usuario/database-project.git .
 2️⃣ Crear la base de datos.
 
 Abrir DBeaver.
