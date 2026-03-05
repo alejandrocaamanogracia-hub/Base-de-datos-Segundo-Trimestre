@@ -124,3 +124,5 @@ alter table partido_arbitro
 /* Volvemos a activar las foreign keys ya hechos los cambios requeridos. */
 
 set foreign_key_checks = 1;
+
+show tables;

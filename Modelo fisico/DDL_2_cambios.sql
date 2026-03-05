@@ -24,7 +24,7 @@ alter table partidos
 
 /* Establecemos las FOREIGN KEYS para las tablas principales. */
 
-/* Usamos CONSTRAINT para poner un "etiqueta" a las foreign keys para que sea más ordenado. */
+/* Usamos CONSTRAINT para poner una "etiqueta" a las foreign keys para que sea más ordenado. */
 
 alter table jugadores
 	add constraint fk_jugador_equipo foreign key (id_equipo) references equipos(id_equipo);
